@@ -42,3 +42,7 @@ $ npm install -g npm
 ## Install Postman
 
 Please refer to [this article](https://learning.postman.com/docs/getting-started/installation-and-updates/) and follow the instructions to install Postman on your system
+
+## Install Git
+
+Please refer to [this article](https://github.com/git-guides/install-git) and follow the instructions to install Git on your system
