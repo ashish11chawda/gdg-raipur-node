@@ -38,3 +38,7 @@ If you need to upgrade just NPM, use NPM like this:
 ```sh
 $ npm install -g npm
 ```
+
+## Install Postman
+
+Please refer to [this article](https://learning.postman.com/docs/getting-started/installation-and-updates/) and follow the instructions to install Postman on your system
