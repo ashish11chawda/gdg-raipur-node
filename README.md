@@ -46,3 +46,7 @@ Please refer to [this article](https://learning.postman.com/docs/getting-started
 ## Install Git
 
 Please refer to [this article](https://github.com/git-guides/install-git) and follow the instructions to install Git on your system
+
+## Install Heroku CLI
+
+Please refer to [this article](https://devcenter.heroku.com/articles/heroku-cli) and follow the instructions to install Heroku CLI on your system
